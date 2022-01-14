@@ -147,7 +147,7 @@ input[type="text"]:focus {border:none; outline:none; }
 
 #header .container {position:relative; }
 .navbar-nav > li.mega-menu {position:static; }
-.navbar-scrollbar{  width: 1165px;height: 350px;overflow-y: scroll;scrollbar-color: rebeccapurple green;scrollbar-width: thin;}
+/*.navbar-scrollbar{  width: 1165px;height: 350px;overflow-y: scroll;scrollbar-color: rebeccapurple green;scrollbar-width: thin;}*/
 .mega-menu .menu-view {background:#fff; position:absolute; top:100%; left:0px; width:100%; border-top:solid 2px #fe5969; padding:20px; display:none; box-shadow:0 5px 5px rgba(0, 0, 0, 0.2);}
 .mega-menu .menu-view .menu-title {display:block; line-height:40px; border-bottom:solid 1px #e0e0e0; font-size:18px; color:#000; font-weight:bold;  min-height:40px;}
 .mega-menu .menu-view ul {padding:0px; margin:0px;}
